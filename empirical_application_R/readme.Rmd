@@ -1,0 +1,20 @@
+---
+title: "README for lss folder"
+author: "Ziyao Wang"
+date: "6/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## empirical_application_R/
+
+- This folder contains the R code, which replicate the empirical example in Abadie et al. (2010).
+
+## method_3_matlab/
+
+- This folder contains the MATLAB code for estimating spillover structure by post-treatment data (L1 penalty).
+
+
