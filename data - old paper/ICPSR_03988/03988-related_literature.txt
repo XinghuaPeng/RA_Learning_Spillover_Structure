@@ -1,0 +1,100 @@
+Bibliography
+Measuring Perceptions of Appropriate Prison Sentences in the United States,
+2000
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 3988. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Cohen, Mark A.; Rust, Roland T.; Steen, Sara, "Measuring Public
+Perceptions of Appropriate Prison Sentences, Executive Summary." NCJ
+199364, Washington, DC: United States Department of Justice, National
+Institute of Justice, Oct 2002. 1999-CE-VX-0001
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=199364
+Full text PDF: http://www.ncjrs.gov/pdffiles1/nij/grants/199364.pdf
+The authors explain that their study relied heavily on the well-established
+method used by Wolfgang, et al. of sampling a portion of the U.S.
+population and asking them to respond to a series of crime vignettes. The
+goal of such a method is to gauge public perception of the seriousness of
+different crimes. In this case, however, the authors used a constrained-
+choice model designed to force the respondent to first choose which of a
+series of crimes is more serious, and second, how much they would be
+willing to pay to reduce crime in their community. Other important aspects
+of this study included: (1) the focus on crimes normally encountered by
+local criminal justice agencies; (2) the focus on the parole decision in a
+constrained-choice model; and (3) the incorporation of explicit tradeoffs
+of various crimes and sentences to better gauge public preferences. The
+authors also employed two new methodologies designed to gain information on
+the publicâs willingness to pay for crime prevention and control
+policies. A nationally representative survey of 1,300 U.S. adults found
+that, with two exceptions, the public largely agreed with current
+sentencing decisions concerning incarceration and length of sentence. The
+authors found strong support for spending more money to further reduce
+crimes, although most preferred that the money go toward prevention
+programs and more police officers rather than more prisons. Finally, the
+authors elicited information about willingness to pay for crime reduction
+and found that most respondents were willing to pay between $75 and $150
+per year for prevention programs that would reduce local crime rates by 10
+percent. In conclusion, the authors note that this study is relevant for
+policymakers who use seriousness-of-crime surveys to decide current
+criminal justice and police policies.
+
+2. Cohen, Mark A.; Rust, Roland T.; Steen, Sara, "Measuring Public
+Perceptions of Appropriate Prison Sentences, Final Report." NCJ 199365,
+Washington, DC: United States Department of Justice, National Institute of
+Justice, Oct 2002. 1999-CE-VX-0001
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=199365
+Full text PDF: http://www.ncjrs.gov/pdffiles1/nij/grants/199365.pdf
+It is important for policymakers to understand how the public views the
+appropriateness of current criminal justice policy, especially concerning
+the appropriateness of incarceration, length of sentence, and parole
+decisions. This research project tested new methodologies designed to
+elicit information about the publicâs preferences regarding sentencing
+and parole of criminal offenders. The authors explained that their study
+relies heavily on the well-established method used by Wolfgang, et al. of
+sampling a portion of the U.S. population and asking them to respond to a
+series of crime vignettes. The goal of such a method is to gauge public
+perception of the seriousness of different crimes. In this case, however,
+the authors used a constrained-choice model designed to force the
+respondent to first, choose which of a series of crimes is more serious,
+and second, how much they would be willing to pay to reduce crime in their
+community. Other important aspects of this study included: (1) the focus on
+crimes normally encountered by local criminal justice agencies; (2) the
+focus on the parole decision in a constrained-choice model; and (3) the
+incorporation of explicit tradeoffs of various crimes and sentences to
+better gauge public preferences. The authors also employed two new
+methodologies designed to gain information on the publicâs willingness to
+pay for crime prevention and control policies. A nationally representative
+survey of 1,300 U.S. adults found that, with two exceptions, the public
+largely agreed with current sentencing decisions concerning incarceration
+and length of sentence. The authors found strong support for spending more
+money to further reduce crimes, although most preferred that the money go
+toward prevention programs and more police officers rather than more
+prisons.
+
+3. Cohen, Mark A.; Rust, Roland T.; Steen, Sara; Tidd, Simon T.,
+"Willingness-to-pay for crime control programs." Criminology. Feb 2004, 42,
+(1), 89 - 109. DOI: 10.1111/j.1745-9125.2004.tb00514.x NCJ 205889 1999-CE-
+VX-0001
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=205889
+
+4. Steen, Sara; Cohen, Mark A., "Assessing the public's demand for hate
+crime penalties." Justice Quarterly. Mar 2004, 21, (1), 91 - 124. DOI:
+10.1080/07418820400095751 NCJ 205060 1999-CE-VX-0001
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=205060
+
+5. Stickle, Benjamin F., "Examining public willingness-to-pay for burglary
+prevention." Crime Prevention and Community Safety. May 2015, 17, (2), 12 -
+138. DOI: 10.1057/cpcs.2015.3
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=205060
+
+6. Wells, William; Cihan, Abdullah, "Citizens' opinions about police
+discretion in criminal investigations." Policing (Bingley). 2011, 34, (2),
+347 - 362. DOI: 10.1108/13639511111131120
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=205060

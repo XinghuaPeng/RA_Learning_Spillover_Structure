@@ -1,0 +1,200 @@
+File Manifest for ICPSR 3988
+
+Cohen, Mark A., Roland T. Rust, and Sara Steen. MEASURING PERCEPTIONS OF
+APPROPRIATE PRISON SENTENCES IN THE UNITED STATES, 2000. ICPSR version.
+Nashville, TN: Vanderbilt University [producer], 2000. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2004. http://doi.org/10.3886/ICPSR03988.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-descriptioncitation.pdf       -       -         -       2014-07-03  -
+
+    03988-related_literature.txt        -       -         -       daily       -
+
+    03988-manifest.txt                  -       -         -       daily       -
+
+    03988-Codebook_Questionnaire.pdf    -       -         -       2004-10-01  32ad1480d0eb7c64b1f1d80d9f6ecf84
+
+    03988-User_guide.pdf                -       -         -       2004-10-01  61b7b5d2f7e2bd41a246568c185e9616
+
+
+DS0001 Data From Survey
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0001-Data.dta                 -       1,300     302     2005-03-10  dcd8f7cde0d9490958fcfd71304222f4
+
+    03988-0001-Data.por                 -       1,300     302     2005-03-10  071a20ac2717a828edd2a25182beed89
+
+    03988-0001-Data.txt                 519     1,300     302     2004-10-01  3108319bb98c3c94d381311853a36dd9
+
+    03988-0001-Data.xpt                 -       1,300     302     2005-03-10  491ffa13f054b356e088da5a44b10c88
+
+    03988-0001-Setup.dct                -       -         -       2005-03-10  6e2d04d77b287520a4de55b35798d86f
+
+    03988-0001-Setup.do                 -       -         -       2005-03-10  11b602729e67891b5dca3b69cc53e448
+
+    03988-0001-Setup.sas                -       -         -       2004-10-01  a50778d4d1df1acc3d8654cd7f64a4c4
+
+    03988-0001-Setup.sps                -       -         -       2004-10-01  165f3ac31504c27c8b706de2ba2a9692
+
+
+DS0002 Created Variables - Section B Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0002-Data.dta                 -       1,300     11      2005-03-10  79594a0fa97f5cacb931ee8d7aaa9d52
+
+    03988-0002-Data.por                 -       1,300     11      2005-03-10  1d06d610040acfa321c28eb3f09e01d3
+
+    03988-0002-Data.txt                 26      1,300     11      2004-10-01  93a21d23456378f11b2dc86caa24f9f3
+
+    03988-0002-Data.xpt                 -       1,300     11      2005-03-10  f52f665398d86528bf0a9b5947fe7848
+
+    03988-0002-Setup.dct                -       -         -       2005-03-10  46a43e685e7cbc5ed23b287b9430698a
+
+    03988-0002-Setup.do                 -       -         -       2005-03-10  86c94f6bdbf90d2e6ed18288b8cf6223
+
+    03988-0002-Setup.sas                -       -         -       2004-10-01  b3c06cf11260258f837d8beaa237e641
+
+    03988-0002-Setup.sps                -       -         -       2004-10-01  d63fcc69f56620fef2ee8ade8a22fb0c
+
+
+DS0003 Created Variables -- Part 1 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0003-Data.dta                 -       1,300     24      2005-03-10  b41e571e5c19b1eef72cdf723c3cc80a
+
+    03988-0003-Data.por                 -       1,300     24      2005-03-10  d2bd5b70f9a1d7ec0f91b53b97c037a4
+
+    03988-0003-Data.txt                 34      1,300     24      2004-10-01  e6fdf50b3e1cb525d681ec69c99b2bb5
+
+    03988-0003-Data.xpt                 -       1,300     24      2005-03-10  786ea6a49b749a2156ceba09314cf3cf
+
+    03988-0003-Setup.dct                -       -         -       2005-03-10  8c0ffe20a5ffe49450f7297cb6620113
+
+    03988-0003-Setup.do                 -       -         -       2005-03-10  8d8ebcb38d7443d4ded3059fd140b767
+
+    03988-0003-Setup.sas                -       -         -       2004-10-01  0174801159ba1d8e077a5f42cff9ed39
+
+    03988-0003-Setup.sps                -       -         -       2004-10-01  86f32dbab0c1f60002108c4189a8f97e
+
+
+DS0004 Created Variables -- Part 2 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0004-Data.dta                 -       1,300     338     2005-03-10  c0a606ff7d4eaa408cb0656bdad06978
+
+    03988-0004-Data.por                 -       1,300     338     2005-03-10  0952e8a57ea373e64b54c848e1a33dbc
+
+    03988-0004-Data.txt                 768     1,300     338     2004-10-01  a7931055cdfe560715e7ee8509d6c221
+
+    03988-0004-Data.xpt                 -       1,300     338     2005-03-10  5d1ba1749cd96bc79994cc471e2344cc
+
+    03988-0004-Setup.dct                -       -         -       2005-03-10  6eed33208c78ba0b483c422349b009a0
+
+    03988-0004-Setup.do                 -       -         -       2005-03-10  a655557185751042d30cf79722f1bf4c
+
+    03988-0004-Setup.sas                -       -         -       2004-10-01  124555e059b9be3f3fd82e933f879b1f
+
+    03988-0004-Setup.sps                -       -         -       2004-10-01  646e24d7b9b438b56fa5f9a01a77cabd
+
+
+DS0005 Created Variables -- Part 3 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0005-Data.dta                 -       1,300     15      2005-03-10  c98264d025b46c0a00ea21a0084c7939
+
+    03988-0005-Data.por                 -       1,300     15      2005-03-10  494bdd4473167edcf19dcb3282c4a513
+
+    03988-0005-Data.txt                 85      1,300     15      2004-10-01  5c5e0bb38570afee8c01e4f0abcbfb89
+
+    03988-0005-Data.xpt                 -       1,300     15      2005-03-10  8236c75cd421b21d94085d99157deb91
+
+    03988-0005-Setup.dct                -       -         -       2005-03-10  81faf60be77f909697261d08424fa87e
+
+    03988-0005-Setup.do                 -       -         -       2005-03-10  bb2bb9f7500315b5d31b97dc363d5f36
+
+    03988-0005-Setup.sas                -       -         -       2004-10-01  175288ed38f3a32bf7c05dcbb4cb8b4b
+
+    03988-0005-Setup.sps                -       -         -       2004-10-01  cdeac45d7515937a4ba8573e7b0d88ec
+
+
+DS0006 Created Variables -- Part 4 Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0006-Data.dta                 -       1,300     25      2005-03-10  f75b229906b7f57b45bfea6a90f7dde3
+
+    03988-0006-Data.por                 -       1,300     25      2005-03-10  5394c515ca19cabc136b1f8176424d43
+
+    03988-0006-Data.txt                 47      1,300     25      2004-10-01  29904ce2c4bba903bdadf89e8c02322a
+
+    03988-0006-Data.xpt                 -       1,300     25      2005-03-10  982cb3d299b9ad6b0dd7bafec9bf644e
+
+    03988-0006-Setup.dct                -       -         -       2005-03-10  e4d8ca2ed093ae41fc415850dae8743f
+
+    03988-0006-Setup.do                 -       -         -       2005-03-10  2445aa9a81e0814a6a1f75405d234b39
+
+    03988-0006-Setup.sas                -       -         -       2004-10-01  31d920774708c0c5b3a5ff79c556b391
+
+    03988-0006-Setup.sps                -       -         -       2004-10-01  c19f9e2d15a8376e742912fb46fbb289
+
+
+DS0007 Created Variables -- Demographic Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0007-Data.dta                 -       1,300     44      2005-03-10  eb6a7242d6bc9b9f403c964b9e7fbefe
+
+    03988-0007-Data.por                 -       1,300     44      2005-03-10  92419d68a437987300cb07d3f93e20b7
+
+    03988-0007-Data.txt                 60      1,300     44      2004-10-01  adfbaf27b5fb16e6cd37e09861494fab
+
+    03988-0007-Data.xpt                 -       1,300     44      2005-03-10  26eaa718e1a29a9c475605d2cd88f63e
+
+    03988-0007-Setup.dct                -       -         -       2005-03-10  390e433885acc3d825d03ca9b7b0c78e
+
+    03988-0007-Setup.do                 -       -         -       2005-03-10  f8dfa512194c83619f75487b6444c0eb
+
+    03988-0007-Setup.sas                -       -         -       2004-10-01  2b4bff87f1ab8753f3970d66fc006e3d
+
+    03988-0007-Setup.sps                -       -         -       2004-10-01  359d26cb3dcc05709e0cbbd944aad6d5
+
+
+DS0008 Verbatim Responses
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03988-0008-Data.txt                 641     5,381     inap.   2004-10-18  c88c793647b428e230fff59d35fec93e
+
+
+Version History
+
+2006-03-30 File UG3988.ALL.PDF was removed from any previous datasets and
+flagged as a study-level file, so that it will accompany all downloads.
+2006-03-30 File CQ3988.ALL.PDF was removed from any previous datasets and
+flagged as a study-level file, so that it will accompany all downloads.
+2005-11-04  On 2005-03-14 new files were added to one  or  more datasets.
+These files included additional setup files as well  as one or more of the
+following: SAS  program, SAS transport, SPSS portable,   and Stata system
+files. The  metadata record was revised  2005-11-04 to  reflect these
+additions.
